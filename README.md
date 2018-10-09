@@ -50,6 +50,8 @@ To build this project you will need to use:
   * Name of the venue
   * Venue location
   * Date of the Event (use moment to format this as "MM/DD/YYYY")
+  
+  ![concert](https://user-images.githubusercontent.com/38358730/46650170-6826de00-cb50-11e8-9ebf-b9fc4e1cd950.gif)
 
   #### **node liri.js movie-this <movie name here>**
 
