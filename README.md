@@ -63,6 +63,8 @@ To build this project you will need to use:
        * Language of the movie.
        * Plot of the movie.
        * Actors in the movie.
+       
+   ![movie](https://user-images.githubusercontent.com/38358730/46650153-5c3b1c00-cb50-11e8-8f57-a736682725a2.gif)
 
  #### **node liri.js do-what-it-says <movie name here>**
   * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
