@@ -43,6 +43,8 @@ To build this project you will need to use:
   * The song's name
   * A preview link of the song from Spotify
   * The album that the song is from
+  
+  ![spotify](https://user-images.githubusercontent.com/38358730/46650105-3ca3f380-cb50-11e8-8109-b34d14a95c74.gif)
 
   #### **node liri.js concert-this <artist name here>**
   * This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
