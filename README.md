@@ -68,6 +68,8 @@ To build this project you will need to use:
   * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
   * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+  
+  ![whatitsays](https://user-images.githubusercontent.com/38358730/46650174-707f1900-cb50-11e8-86a1-0b52ea8a18fd.gif)
 
 
 
